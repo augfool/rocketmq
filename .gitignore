@@ -13,4 +13,6 @@ devenv
 .DS_Store
 localbin
 nohup.out
-worktemp/
+worktemp/store/
+worktemp/logs/
+
